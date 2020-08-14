@@ -10273,8 +10273,7 @@ body {
 
 .about-section {
   padding-top: 10rem;
-   /*background-image: linear-gradient( rgba(207,144,92,0.5), rgba(207,144,92,0.5));*/A4E1D8
-  background:#DCD8D3 /*linear-gradient(to bottom, #000000 0%, rgba(0, 0, 0, 0.9) 75%, rgba(0, 0, 0, 0.8) 100%);*/
+   background-image: linear-gradient( rgba(230,226,221,1), rgba(255,223,255,1));
 }
 
 
@@ -10376,5 +10375,10 @@ body {
 }
 
 .instaicon{
-  font-size: 2rem;
+  font-size: 1.5rem;
+}
+
+a.orderNow:hover{
+  text-decoration: none;
+   
 }
